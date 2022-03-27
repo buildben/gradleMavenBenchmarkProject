@@ -1,0 +1,93 @@
+package org.gradle.test.performance.largemonolithicjavaproject.p947;
+
+import org.gradle.test.performance.largemonolithicjavaproject.p946.Production18921;
+import org.gradle.test.performance.largemonolithicjavaproject.p946.Production18934;
+
+import org.junit.Test;
+import java.lang.Math;
+import static org.junit.Assert.*;
+
+public class Test18948 {
+    Production18948 objectUnderTest = new Production18948();
+
+    @Test
+    public void testProperty0() {
+try{Thread.sleep((long)((Math.random() * 10)));}catch(Exception e){}
+        Production18921 value = new Production18921();
+        objectUnderTest.setProperty0(value);
+        assertEquals(value, objectUnderTest.getProperty0());
+    }
+
+    @Test
+    public void testProperty1() {
+try{Thread.sleep((long)((Math.random() * 10)));}catch(Exception e){}
+        Production18934 value = new Production18934();
+        objectUnderTest.setProperty1(value);
+        assertEquals(value, objectUnderTest.getProperty1());
+    }
+
+    @Test
+    public void testProperty2() {
+try{Thread.sleep((long)((Math.random() * 10)));}catch(Exception e){}
+        Production18947 value = new Production18947();
+        objectUnderTest.setProperty2(value);
+        assertEquals(value, objectUnderTest.getProperty2());
+    }
+
+    @Test
+    public void testProperty3() {
+try{Thread.sleep((long)((Math.random() * 10)));}catch(Exception e){}
+        String value = "value";
+        objectUnderTest.setProperty3(value);
+        assertEquals(value, objectUnderTest.getProperty3());
+    }
+
+    @Test
+    public void testProperty4() {
+try{Thread.sleep((long)((Math.random() * 10)));}catch(Exception e){}
+        String value = "value";
+        objectUnderTest.setProperty4(value);
+        assertEquals(value, objectUnderTest.getProperty4());
+    }
+
+    @Test
+    public void testProperty5() {
+try{Thread.sleep((long)((Math.random() * 10)));}catch(Exception e){}
+        String value = "value";
+        objectUnderTest.setProperty5(value);
+        assertEquals(value, objectUnderTest.getProperty5());
+    }
+
+    @Test
+    public void testProperty6() {
+try{Thread.sleep((long)((Math.random() * 10)));}catch(Exception e){}
+        String value = "value";
+        objectUnderTest.setProperty6(value);
+        assertEquals(value, objectUnderTest.getProperty6());
+    }
+
+    @Test
+    public void testProperty7() {
+try{Thread.sleep((long)((Math.random() * 10)));}catch(Exception e){}
+        String value = "value";
+        objectUnderTest.setProperty7(value);
+        assertEquals(value, objectUnderTest.getProperty7());
+    }
+
+    @Test
+    public void testProperty8() {
+try{Thread.sleep((long)((Math.random() * 10)));}catch(Exception e){}
+        String value = "value";
+        objectUnderTest.setProperty8(value);
+        assertEquals(value, objectUnderTest.getProperty8());
+    }
+
+    @Test
+    public void testProperty9() {
+try{Thread.sleep((long)((Math.random() * 10)));}catch(Exception e){}
+        String value = "value";
+        objectUnderTest.setProperty9(value);
+        assertEquals(value, objectUnderTest.getProperty9());
+    }
+
+}
